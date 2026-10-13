@@ -3,7 +3,7 @@
 **12-10-2026, 13:00 – Teams**
 
 ## Ontwerp / plattegronden
-- [GJ] Setback 4 m aan de Limpergstraat blijft lastig. Plattegronden worden hierdoor diep, vooral in de plint. Daglicht halen is moeilijk.
+- [GJ] Setback 4 m aan de Limpergstraat blijft lastig. Plattegronde worden hierdoor diep, vooral in de plint. Daglicht halen is moeilijk.
 - [GJ] Nog puzzelen met woningindeling en ontsluiting. Mogelijk gang doortrekken en voor- en achterwoningen maken. Nog geen keuze.
 - [GJ] B2 trappenhuis simpeler gemaakt en samengevoegd. C1 meer naar zuid, levert ca. 8 parkeerplaatsen op.
 - [GJ] Parkeergarage krijgt eigen ontsluiting naar begane grond; liften/fundering kunnen niet door tot -2.
@@ -13,7 +13,7 @@
 - [P] Stedin wil niet door de parkeergarage met invoer. Nog zoeken naar plek voor flat- en CVZ-kasten.
 - [P] Hoofd-WKO in bouwdeel C op -1. Center krijgt eigen sub-WKO, wel gekoppeld zodat warm/koud uitgewisseld kan worden.
 - [GJ] Trafo's liever weg van Limpergstraat en naar achterkant binnentuin C1/C2. Beter zicht bij entree/portiersloge en minder storend.
-- [P]/[GJ] Stedin moet wel akkoord zijn met prive terrein, slagboom, bereikbaarheid 24/7 en uitneembare bestrating. Dus dit nog goed afstemmen.
+- [P]/[GJ] Stedin moet wel akkoord zijn met prive terein, slagboom, bereikbaarheid 24/7 en uitneembare bestrating. Dus dit nog goed afstemmen, is nog niet zeker.
 - [P] Sprinklerbak/pompruimte in C1 voor de parkeergarage. B1 aparte installatie vanwege fasering en verdere invulling. Brandweer moet wel goed bij C1 kunnen komen.
 
 ## Vluchten / geluid / woningtypes
@@ -27,7 +27,7 @@
 ## Gevel / prefab / liften
 - [RvdM] Torens voorlopig prefab. Rijswijkse Hoogte vanaf eerste verdiepingsvloer prefab, begane grondvloer in het werk gestort. Gevel kan mogelijk ook met prefab sandwichpanelen.
 - [RvdM] Voor nu 3 liften per toren. Misschien vervalt er één bij C1, maar berekening KONE moet nog komen.
-- [P]/[RvdM] Liftdeur ca. 1 m breed; deurhoogte 2,30 m wordt bekeken i.p.v. 2,10 m. Ook schachttoegang/extra voorzieningen bij de hoge toren checken.
+- [P]/[RvdM] Liftdeur ca. 1 m breed; deurhoogte 2,30 m wordt bekeken i.p.v. 2,10 m. Ook schachttoegang/extra voorzieiningen bij de hoge toren checken.
 - [GJ]/[P] Gevelonderhoud op de kern bij hoge torens. Voor overige bouwdelen nog oplossing zoeken. Kraan is duur; reel/gondel ook bekijken, maar setbacks maken het lastig.
 - [RvdM] Met gevelpartij/Schüco contact geweest. Info over raamafmetingen en openstanden delen met LBP, nodig voor advies spuiventilatie.
 
@@ -57,7 +57,7 @@
 - [A] WKO-leidingtracé heeft ca. 40 cm nodig; balken zijn ca. 30 cm en leiding ca. 15 cm. Hoogtes passen dus niet vanzelf, nog goed uitzoeken.
 - [A] Voor overdruk is aparte schacht nodig van ongeveer 1100 x 500 mm. Niet hetzelfde als normale ventilatie. Schachten/sluizen moeten per verdieping logisch doorlopen.
 - [A] Woningschachten voor ventilatie moeten worden gesplitst; één schacht voor twee woningen kan niet.
-- [GJ]/[A] Voor installatieruimtes en technische zones is een aparte inhoudelijke afspraak handig, samen met brandveiligheid/LBP.
+- [GJ]/[A] Voor installatieruimtes en technise zones is een aparte inhoudelijke afspraak handig, samen met brandveiligheid/LBP.
 
 ## Hemelwater / PV / meterkasten
 - [A] Infiltratieberekening opnieuw checken met de nieuwste tekeningen. Eerdere berekening is op oude groendaken/daktuinen gebaseerd. Mogelijk minder ruimte door nieuwe leidingen en wijzigingen.
